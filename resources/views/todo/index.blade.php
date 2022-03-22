@@ -25,7 +25,7 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td> Makan</td>
+                                    <td>EAT</td>
                                     <td> Not Done</td>
                                     <td><button class="btn btn-primary">done</button></td>
                                 </tr>
